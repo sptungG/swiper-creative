@@ -11,6 +11,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - configurable background color for each slide
 - custom fancy navigation buttons
 
+![image](https://user-images.githubusercontent.com/61298021/179511837-461cbc46-8d09-44b7-9091-20d4669fd610.png)
+
 ## Package
 
 In the package you will find:
