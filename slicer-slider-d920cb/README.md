@@ -12,6 +12,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - configurable amount of "slices"
 - can be actually any size (aspect ratio)
 
+![image](https://user-images.githubusercontent.com/61298021/179510177-1ff47f21-c2e7-42ac-9df4-04fc98067a64.png)
+
 ## Package
 
 In the package you will find:
