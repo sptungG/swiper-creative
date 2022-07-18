@@ -12,6 +12,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - clicking side (back) swipers works like navigation
 - automatic creation of side Swipers
 
+![image](https://user-images.githubusercontent.com/61298021/179512566-151c0081-dec9-4d82-88d9-1787604eba95.png)
+
 ## Package
 
 In the package you will find:
