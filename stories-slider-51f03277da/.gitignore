@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+www/core
+www/react
+www/svelte
+www/vue
+dist-ssr
+*.local

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" href="favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shutters Slider</title>
+</head>
+
+<body>
+  <div id="app">
+    <!-- Shutters Slider -->
+    <div class="swiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <!-- shutters image must have "swiper-shutters-image" class, one image per slide -->
+          <img class="swiper-shutters-image" src="./images/1.jpg" />
+          <!-- demo slide title -->
+          <div class="demo-slide-title" data-swiper-parallax="50%">Tiffany</div>
+        </div>
+        <div class="swiper-slide">
+          <img class="swiper-shutters-image" src="./images/2.jpg" />
+          <div class="demo-slide-title" data-swiper-parallax="50%">Michele</div>
+        </div>
+        <div class="swiper-slide">
+          <img class="swiper-shutters-image" src="./images/3.jpg" />
+          <div class="demo-slide-title" data-swiper-parallax="50%">Jane</div>
+        </div>
+      </div>
+
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+
+  </div>
+  <script type="module" src="/main.js"></script>
+</body>
+
+</html>

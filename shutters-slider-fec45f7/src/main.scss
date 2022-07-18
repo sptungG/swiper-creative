@@ -1,0 +1,39 @@
+html,
+body {
+  position: relative;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #000;
+  color: #fff;
+  line-height: 1.5;
+  font-family: -apple-system, system-ui, 'Helvetica Neue', Helvetica, Arial,
+    'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#app {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Custom styles for demo
+.swiper {
+  width: 100%;
+  height: 100%;
+  --swiper-theme-color: #fff;
+}
+.demo-slide-title {
+  font-weight: bold;
+  font-size: 58px;
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  bottom: 10%;
+  z-index: 100;
+  transform: translate3d(0, 0, 0);
+}
