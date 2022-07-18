@@ -12,6 +12,8 @@ Inspired by [Ramotion Cardslider](https://github.com/Ramotion/cardslider) & [Cha
 - any content can be placed within slides
 - can be actually any size (aspect ratio)
 
+![image](https://user-images.githubusercontent.com/61298021/179510425-dd6a871f-3e02-4a6a-ba8f-7d79969c9a21.png)
+
 ## Package
 
 In the package you will find:
