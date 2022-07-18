@@ -10,6 +10,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - any content can be placed within slides
 - supports up to 8 slides
 
+![image](https://user-images.githubusercontent.com/61298021/179509794-fc07e2ed-d004-43fc-bc02-ba8de5f02c9d.png)
+
 ## Package
 
 In the package you will find:
