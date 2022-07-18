@@ -11,6 +11,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - can be actually any size (aspect ratio)
 - designed to be used with at least 5 slides (but can be tweaked for less slides)
 
+![image](https://user-images.githubusercontent.com/61298021/179510646-121f0246-6bb6-4237-9f15-89b2e6183833.png)
+
 ## Package
 
 In the package you will find:
