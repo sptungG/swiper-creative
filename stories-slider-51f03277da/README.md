@@ -12,6 +12,9 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - supports as many stories as you need
 - can be actually any size (aspect ratio)
 
+![image](https://user-images.githubusercontent.com/61298021/179512370-dd1c739e-83e4-4505-b06c-ae1b5fbe91ce.png)
+![image](https://user-images.githubusercontent.com/61298021/179512457-0c1644d8-1599-461d-be10-6fbf92c937c1.png)
+
 ## Package
 
 In the package you will find:
