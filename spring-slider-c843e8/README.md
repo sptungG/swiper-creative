@@ -10,6 +10,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - any content can be placed within slides
 - can be actually any size (aspect ratio)
 
+![image](https://user-images.githubusercontent.com/61298021/179509989-185e88ce-7d97-4d1c-aecd-a05313e76e70.png)
+
 ## Package
 
 In the package you will find:
