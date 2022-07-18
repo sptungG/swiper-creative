@@ -12,6 +12,8 @@ It can be easily integrated into your [Framework7](https://framework7.io) or [Io
 - configurable "panorama" depth and rotation
 - correctly supports breakpoint
 
+![image](https://user-images.githubusercontent.com/61298021/179511986-ab42d276-2d10-435b-bd91-ad2d09dd2b26.png)
+
 ## Package
 
 In the package you will find:
