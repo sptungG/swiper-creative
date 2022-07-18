@@ -1,0 +1,36 @@
+/**
+ * UI Initiative Slicer Slider
+ *
+ * Images slicer slider
+ *
+ * https://uiinitiative.com
+ *
+ * Copyright 2022 UI Initiative
+ *
+ * Released under the UI Initiative Regular License
+ *
+ */
+
+.swiper-slicer .swiper-slide {
+  overflow: hidden;
+}
+.swiper-slicer-image, .swiper-slicer-image-clones, .swiper-slicer-image-clone {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.swiper-slicer-image {
+  display: none;
+  object-fit: cover;
+  object-position: center;
+}
+.swiper-slicer-image-clone {
+  overflow: hidden;
+  transition-timing-function: cubic-bezier(1, 0, 0.5, 1);
+}
+.swiper-slicer-image-clone .swiper-slicer-image {
+  display: block;
+}
