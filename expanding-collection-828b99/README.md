@@ -14,6 +14,8 @@ Inspired by [Ramotion Expanding Collection](https://github.com/Ramotion/expandin
 - can be actually any size (aspect ratio)
 - fully customizable
 
+![image](https://user-images.githubusercontent.com/61298021/179511620-47fbb1e6-e959-4ea2-8a3b-c35b70ac5426.png)
+
 ## Package
 
 In the package you will find:
