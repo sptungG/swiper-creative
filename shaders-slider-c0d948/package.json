@@ -21,7 +21,7 @@
     "prettier": "^2.3.2",
     "rollup": "^2.70.2",
     "sass": "^1.50.1",
-    "terser": "^5.12.1",
+    "terser": "^5.14.2",
     "vite": "^2.5.0"
   },
   "dependencies": {
