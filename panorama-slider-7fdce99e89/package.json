@@ -19,7 +19,7 @@
     "prettier": "^2.5.1",
     "rollup": "^2.75.6",
     "sass": "^1.48.0",
-    "terser": "^5.14.0",
+    "terser": "^5.14.2",
     "vite": "^2.7.12"
   },
   "dependencies": {
